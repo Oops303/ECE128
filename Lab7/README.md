@@ -1,4 +1,4 @@
-##Lab7  
+## Lab7  
 code for   
 1.switch debouncer  
 2.moore FSM 1100  
